@@ -4,3 +4,4 @@ HTML to define the structure of the website
 CSS to style the website and make it look good
 JavaScript to add interactivity to the website and make it functional
 Visual Studio Code: Visual Studio Code is a popular and lightweight IDE that is available for Windows, Mac, and Linux. It has a lot of features that are useful for web development, such as syntax highlighting, code completion, and linting.
+I have a special announcment that you can use songs and cover according to your choice
